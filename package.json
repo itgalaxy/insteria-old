@@ -1,0 +1,14 @@
+{
+    "name": "insteria",
+    "version": "0.0.0",
+    "description": "insteria",
+    "license": "MIT",
+    "repository": "https://github.com/itgalaxy/insteria",
+    "dependencies": {},
+    "devDependencies": {
+        "nsp": "^2.6.3"
+    },
+    "scripts": {
+        "security": "nsp check"
+    }
+}
