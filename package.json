@@ -1,0 +1,12 @@
+{
+    "name": "insteria",
+    "version": "0.0.0",
+    "description": "insteria",
+    "dependencies": {},
+    "devDependencies": {
+        "nsp": "^2.6.3"
+    },
+    "scripts": {
+        "security": "nsp check"
+    }
+}
